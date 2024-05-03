@@ -1,0 +1,132 @@
+.cabecera1 {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.containerizq {
+  display: flex;
+  flex-direction: column;
+}
+
+body {
+  background-color: #fbf6fb;
+  min-height: 100%;
+}
+
+h7 {
+  margin-top: 0px;
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h3 {
+  margin-bottom: 0%;
+  margin-top: 20px;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.colores {
+  height: 400px;
+  width: 400px;
+  justify-content: center;
+  margin-left: 70px;
+  margin-right: 200px;
+}
+
+.container0 {
+  display: flex;
+}
+.containerder {
+  min-width: 100vw;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(246, 233, 235);
+  align-items: center;
+  justify-content: center;
+  margin-right: 100px;
+}
+
+.contactoprincipal {
+  display: flex;
+  border: solid;
+  border-color: rgb(247, 217, 249);
+}
+
+.lista {
+  display: flex;
+  flex-direction: column;
+}
+
+.contactodelista {
+  display: flex;
+  border: solid;
+  border-color: rgb(247, 217, 249);
+}
+
+.texto1 {
+  margin-left: 20px;
+  margin-top: 0%;
+}
+
+button {
+  width: 200px;
+  height: 40px;
+  background-color: rgb(247, 220, 229);
+  border-color: rgb(247, 220, 229);
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.boton {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  padding: 30px;
+  border: solid;
+  border-color: rgb(247, 217, 249);
+}
+
+i {
+  margin-top: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: rgb(239, 130, 192);
+}
+.texto2 {
+  margin-left: 50px;
+  margin-top: 0%;
+  margin-bottom: 20px;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Sen", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 30px;
+  margin-right: 150px;
+}
+
+p {
+  text-align: center;
+  font-family: "Poiret One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-right: 100px;
+}
+
+.fa-regular {
+  margin-left: 5px;
+}
